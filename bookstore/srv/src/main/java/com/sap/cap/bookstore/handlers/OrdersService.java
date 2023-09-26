@@ -29,8 +29,6 @@ import cds.gen.sap.capire.bookstore.Books_;
 import java.math.BigDecimal;
 import com.sap.cds.services.handler.annotations.After;
 
-
-
 @Component
 @ServiceName(OrdersService_.CDS_NAME)
 public class OrdersService implements EventHandler {

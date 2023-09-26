@@ -1,0 +1,6 @@
+ID,title,descr,dueDate,status
+20466921-7d57-4e76-b14c-e53fd97dcb11,Task 1,Description for Task 1,2023-09-25,new
+20466921-7d57-4e76-b14c-e53fd97dcb12,Task 2,Description for Task 2,2023-09-26,completed
+20466921-7d57-4e76-b14c-e53fd97dcb13,Task 3,Description for Task 3,2023-09-27,in-progress
+20466921-7d57-4e76-b14c-e53fd97dcb14,Task 4,Description for Task 4,2023-09-28,new
+20466921-7d57-4e76-b14c-e53fd97dcb15,Task 5,Description for Task 5,2023-09-29,completed
